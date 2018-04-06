@@ -2,10 +2,5 @@
 
 Aula Git e Github para iniciantes
 
-Teste
 
-Teste
-
-Teste
-
-Teste
+Faz sol bro skr skr 7777
